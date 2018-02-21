@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="column_size">164dp</dimen>
+    <dimen name="paddin">10dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="text_size">19dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="size">15dp</dimen>
+    <dimen name="text_size_name">25dp</dimen>
+    <dimen name="size_width">56dp</dimen>
+    <dimen name="size_height">49dp</dimen>
+    <dimen name="margin_text">10dp</dimen>
+    <dimen name="padding_text">5dp</dimen>
+</resources>

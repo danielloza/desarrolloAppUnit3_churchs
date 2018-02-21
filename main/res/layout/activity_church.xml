@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_main"
+    android:paddingTop="@dimen/padding"
+    android:paddingBottom="@dimen/padding"
+    android:paddingLeft="@dimen/padding"
+    android:paddingRight="@dimen/padding"
+    android:orientation="vertical"
+    android:background="@drawable/imagen9"
+    tools:context="mx.edu.utng.dloza.church.MapActivity">
+
+    <ImageButton
+        android:layout_width="@dimen/column_size"
+        android:layout_height="@dimen/column_size"
+        android:padding="@dimen/paddin"
+        android:layout_margin="@dimen/margin"
+        android:onClick="new2"
+        android:layout_gravity="center"
+        android:src="@drawable/imagen1"
+        android:id="@+id/imagen1"
+        />
+
+    <TextView
+        android:id="@+id/lbl_nombre"
+        android:text="@string/name"
+        android:textSize="@dimen/text_size_name"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color_text"
+        />
+
+    <TextView
+        android:id="@+id/lbl_contenido"
+        android:text="@string/information"
+        android:textSize="@dimen/size"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color_text"
+        />
+    <ImageButton
+        android:layout_width="@dimen/size_width"
+        android:layout_height="@dimen/size_height"
+        android:layout_margin="@dimen/paddin"
+        android:layout_marginTop="@dimen/paddin"
+        android:background="@color/color_background"
+        android:onClick="new2"
+        android:layout_gravity="center"
+        android:src="@drawable/loca"
+        android:textColor="@color/color_text"
+         />
+
+</LinearLayout>

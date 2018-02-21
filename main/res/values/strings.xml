@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Church</string>
+    <string name="information">La Parroquia de Nuestra Señora de Los Dolores está está considerado
+        como uno de los mejores ejemplos del barroco novohíspano del último tercio del siglo XVIII.
+        En su interior se conservan en el crucero verdaderas obras de arte: dos bellos retablos de
+        estilo barroco estípite, el de la derecha dedicado a la Virgen de Guadalupe y el de enfrente
+        a San José.</string>
+    <string name="back">Regresar</string>
+    <string name="name">Parroquia Nuestra Señora de Dolores</string>
+    <string name="name_tercera_orden">Tercera Orden</string>
+    <string name="name_parroquia_dolores">Parroquia Dolores</string>
+    <string name="name_la_azuncion">La Azunción</string>
+</resources>
